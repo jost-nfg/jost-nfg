@@ -43,5 +43,6 @@ Cyber Security studies start in October.
 
 ## Contact
 
-- Portfolio: [jost-neufang.de](https://jost-neufang.de/)
+- Portfolio: [jostneufang.de](https://jostneufang.de/)
+- LinkedIn: [LinkedIn.com](www.linkedin.com/in/jost-neufang)
 - Email: [jostneufang@icloud.com](mailto:jostneufang@icloud.com)
