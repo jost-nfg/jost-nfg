@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Local editor state
+.idea/
+.vscode/
+
+# Generated output
+dist/
+build/
+out/
