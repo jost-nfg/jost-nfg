@@ -19,7 +19,7 @@ Cyber Security studies start in October.
 | --- | --- | --- |
 | [Notenrechner](https://jostneufang.de/notenrechner/) | PHP, JavaScript, CSS | Browser-based calculator for grades, weights, percentages, and points with German / English UI. |
 | [Cyber Wordle](https://jostneufang.de/wordle/) | PHP, JavaScript, CSS | Wordle-style browser game with IT and cyber terms, solo rounds, and friend rooms. |
-| [QR & Binary Tool](https://jostneufang.de/qr-binary/) | JavaScript, Canvas, FileReader | Client-side QR generator and local file byte viewer for binary, hex, and base64. |
+| [QR File Encoder](https://jostneufang.de/qr-binary/) | JavaScript, Canvas, FileReader | Client-side QR generator for text and small local files, with byte, hex, and base64 views. |
 | Java Plotter | Java, Swing | Desktop plotter for manual data, file import, random values, and weather data with custom drawing. |
 | [MazeRunner 21](https://www.jobelmannschule.de/service/news/artikel/Roboterwettbewerb_2026.html) | C++, Arduino | Autonomous maze solver for the Hochschule 21 robot-fight task. |
 | Object Detection | C++, Python, OpenCV | Image-analysis learning project with training, test runs, and OpenCV. |
