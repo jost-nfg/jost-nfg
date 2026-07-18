@@ -1,26 +1,29 @@
 # Jost Neufang
 
-**C / C++ developer focused on embedded systems, low-level tools, and practical software.**
+**C / C++ developer focused on embedded systems, low-level tools, and small web utilities.**
 
-I build small, finished projects across systems, embedded robotics, desktop tooling, and web utilities. My current focus is C and C++ for clean architecture close to hardware, with Rust, Python, SQL, JavaScript, PHP, and Java as supporting tools.
+I build small projects across embedded robotics, desktop tools, browser apps, and system experiments. My current focus is C and C++ close to hardware, with Rust, Python, SQL, JavaScript, PHP, and Java as supporting tools.
 
 Cyber Security studies start in October.
 
 ## Current Focus
 
-- C and C++ for embedded logic, systems programming, and maintainable architecture
-- Rust for local system tooling and security-oriented command-line applications
+- C and C++ for embedded logic, modules, and hardware-facing code
+- Rust for local system tooling and plugin-host experiments
 - Practical software that is easy to run, inspect, and improve
-- Cyber Security foundations, system visibility, and accountable automation
+- Cyber Security foundations, system visibility, and simple automation
 
 ## Projects
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [ScorePilot](https://github.com/jost-nfg/rechner) | PHP, JavaScript, CSS | Grade calculator with weighted entries, percentage logic, IHK grade bands, themes, and German / English UI. |
-| [SignalPlot](https://github.com/jost-nfg/plotter) | Java, Swing | Desktop plotting tool for file input, manual values, random test data, statistics, marker styles, and optional weather data. |
-| [MazeRunner 21](https://github.com/jost-nfg/roboter) | C++, Arduino | Modular robot controller with motor control, drive logic, distance sensing, and LED state feedback. |
-| [SystemSentinel](https://github.com/jost-nfg/SystemSentinel) | Rust | Read-only local system visibility concept for driver inventory, service inventory, integrity checks, and policy findings. |
+| [Notenrechner](https://jostneufang.de/notenrechner/) | PHP, JavaScript, CSS | Browser-based calculator for grades, weights, percentages, and points with German / English UI. |
+| [Cyber Wordle](https://jostneufang.de/wordle/) | PHP, JavaScript, CSS | Wordle-style browser game with IT and cyber terms, solo rounds, and friend rooms. |
+| Java Plotter | Java, Swing | Desktop plotter for manual data, file import, random values, and weather data with custom drawing. |
+| [MazeRunner 21](https://www.jobelmannschule.de/service/news/artikel/Roboterwettbewerb_2026.html) | C++, Arduino | Autonomous maze solver for the Hochschule 21 robot-fight task. |
+| Object Detection | C++, Python, OpenCV | Image-analysis learning project with training, test runs, and OpenCV. |
+| Rust Plugin Host | Rust, DLL Loading, FFI | Small Rust host for loading local test modules and exploring host/module boundaries. |
+| System Control | Rust, Windows API | Project idea for a local admin tool with driver inventory and integrity checks. |
 
 ## Tech Stack
 
@@ -44,5 +47,5 @@ Cyber Security studies start in October.
 ## Contact
 
 - Portfolio: [jostneufang.de](https://jostneufang.de/)
-- LinkedIn: [LinkedIn.com](www.linkedin.com/in/jost-neufang)
-- Email: [jostneufang@icloud.com](mailto:jostneufang@icloud.com)
+- LinkedIn: [linkedin.com/in/jost-neufang](https://www.linkedin.com/in/jost-neufang)
+- Email: [kontakt@jostneufang.de](mailto:kontakt@jostneufang.de)
